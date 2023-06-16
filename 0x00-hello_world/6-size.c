@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - 6-size.c
- * description - Write a C program that prints the size of various types on
+ * description - Write a C program that prints the size of various type
  * Return: Always 0 (Success)
  */
 int main(void)
