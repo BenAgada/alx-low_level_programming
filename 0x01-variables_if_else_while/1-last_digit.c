@@ -3,10 +3,9 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there 
- * Return: 0 on successful execution
- */
+/* betty style doc for function main goes there */
 int main(void)
+	/* descriptio - the major work */
 {
 	int n, lastd;
 
