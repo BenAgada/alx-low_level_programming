@@ -5,9 +5,7 @@
  * Retturn: Always (success)
  *  * @n: The value of the times table to be printed
  */
-
 int main(void)
-
 {
 	int i, z = 0;
 
