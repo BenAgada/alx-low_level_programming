@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - prints all multiple of 3 or 5 up to 1024
+ * main - prints the sum of all multiples of 3 or 5 up to 1024
  * Retturn: 0 on successful execution.
- *  * @n: The value of the times table to be printed
  */
+
 int main(void)
+
 {
 	int i, z = 0;
 
