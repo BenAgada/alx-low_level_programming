@@ -3,6 +3,7 @@
 /**
  * main - prints all multiple of 3 or 5 up to 1024
  * Retturn: Always (success)
+ *  * @n: The value of the times table to be printed
  */
 
 int main(void)
