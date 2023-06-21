@@ -6,6 +6,7 @@
  */
 
 int main(void)
+// Your code here
 {
 	int i, z = 0;
 
